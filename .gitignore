@@ -1,0 +1,7 @@
+terraform_plan.txt
+/bootstrap-terraform-iam-user/.terraform*
+/bootstrap-terraform-iam-user/terraform.tfstate*
+/langchain_lambda/.terraform*
+/langchain_lambda/terraform.tfstate*
+/langchain_lambda/langchain/
+/langchain_lambda/langchain_lambda.zip
